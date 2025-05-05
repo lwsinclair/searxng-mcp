@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tisddm-searxng-mcp-badge.png)](https://mseep.ai/app/tisddm-searxng-mcp)
+
 # SearXNG MCP Server
 
 <p align="center">
